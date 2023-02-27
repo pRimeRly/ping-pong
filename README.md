@@ -1,6 +1,8 @@
 # Ping Pong Game
 
-This is a simple Ping Pong game implemented using Python's turtle module. The game is played by two players, each controlling a paddle that can move up and down to hit a ball back and forth. The game continues until one player misses the ball, and the opponent scores a point. The game ends when one player reaches a pre-determined score.
+This is a Python-based project that utilizes the turtle module to create a simple Ping Pong game. The project involves developing the game's mechanics, including the ball and paddle movements, collision detection, and scoring system. Additionally, the project requires implementing a user interface and game controls using Python's turtle graphics library. The final output is a functional Ping Pong game that can be played by one or two players.
+
+The game is played by two players, each controlling a paddle that can move up and down to hit a ball back and forth. The game continues until one player misses the ball, and the opponent scores a point. The game ends when one player reaches a pre-determined score.
 
 ## Getting Started
 To play the game, you need to have Python installed on your machine. You can download Python from the official website python.org.
