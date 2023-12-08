@@ -15,7 +15,10 @@ pip install turtle
 ```
 
 ## Usage
-Clone this repository to your local machine using the following command:
+Clone this repository to your local machine.
+Run program using the following command:
+
+
 ```
 python main.py
 ```
